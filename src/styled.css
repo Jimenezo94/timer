@@ -1,0 +1,23 @@
+body {
+    background-color: hsl(235, 16%, 14%);
+    Font-size: 14px;
+    font-family: 'Red Hat Text', sans-serif;
+  
+  }
+
+
+pre {
+  color:hsl(0, 0%, 97%);
+  Font-size: 14px;
+
+}
+h1{ 
+  color:hsl(0, 0%, 97%);
+  font-size: 2em;
+  padding-top: 2.5em;
+	margin: 0 0 1.5rem;
+	text-align: center;
+}
+
+  
+ 
